@@ -1,0 +1,30 @@
+Shift Codes
+P (Present)
+AB (Absent)
+UNSCHD (Unscheduled Leave)
+NCNS (No Call No Show)
+CO (Comp OFF)
+WFH (Work from Home)
+HALF DAY (Half Day) {Minimum 7 hour login required}
+ABSCOND (Absconded Employee)
+TERMINATE (Terminated from Services)
+RESIGNED (Employee Resigned after serving Notice)
+OFF
+TRAINING
+Calendar Week from Monday to Sunday
+Only 2 Off Per Week
+Three Consecutive NCNS - 4 day attendance will automatically be ABSCONDED for the remaining of the Month
+if any attendance code is marked as ABSCOND/TERMINATE/RESIGNED, remaining attendance for the month will carry forward that code for that employee
+Export Options
+Only for Admin and Super Admin
+Export in .xlsx format
+Color Coding for Shift Codes
+Add/Edit/Modify Access
+Employee Info Add/Edit/Modify - Admin/Super Admin
+Attendance Code Add/Edit/Modify - Super Admin
+Rest all are view only
+Attendance Input
+Daily attendance - TL/Admin/Super Admin
+Roles assigned will be shared
+Employee mapping
+HR will share their MIS Excel Sheet with you, you would need to clean and map data as per requirements
